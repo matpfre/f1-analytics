@@ -4,4 +4,5 @@ data/clean/
 __pycache__/
 *.pyc
 .env
+.github/copilot-instructions.md
 .github
