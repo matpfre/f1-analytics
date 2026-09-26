@@ -5,4 +5,3 @@ __pycache__/
 *.pyc
 .env
 .github/copilot-instructions.md
-.github
