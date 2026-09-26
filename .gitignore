@@ -1,0 +1,7 @@
+venv/
+data/raw/
+data/clean/
+__pycache__/
+*.pyc
+.env
+.github
