@@ -4,9 +4,12 @@ import logging
 from pathlib import Path
 
 import pandas as pd
+from dotenv import load_dotenv
 from sqlalchemy import create_engine
 
 CLEAN_DIR = Path("data/clean")
+
+load_dotenv()
 
 LOAD_ORDER = [
     "circuits",
